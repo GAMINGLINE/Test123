@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["IAPExperience.PurchaseError"] = {"Text.VpcRequired":"Du kannst über die \"Pässe- & Abonnements\" oder Shop-Seite dieser Experience abonnieren, wenn dir ein Elternteil dabei hilft.","Text.RestrictedUser":"Du kannst nicht auf Inhalte in dieser Experience zugreifen.","Text.EconomicRestrictionsHours":"Du kannst diesen Kauf aufgrund eines Verstoßes nicht tätigen: {violation}. Bitte versuche es in {hour} Stunden erneut.","Text.EconomicRestrictionsDays":"Du kannst diesen Kauf aufgrund eines Verstoßes nicht tätigen: {violation}. Bitte versuche es in {day} Tagen erneut."};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_IAPExperience.PurchaseError");
